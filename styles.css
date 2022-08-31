@@ -1,26 +1,5 @@
-
-
 div {
     border: dashed 1px red;
 }
-body {
-    background-color: #d3d3d3;
-}
 
-.Post{
-    background-color: white;
-    width: 200px;
-    height: 200px;
-    margin: 20px;
-}
 
-#topWrapper {
-    background-color: white;
-    width: 100%;
-}
-
-#gridWrapper{
-    margin: auto 0;
-    display: flex;
-    overflow: auto;
-}
